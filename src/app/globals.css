@@ -24,6 +24,7 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+<<<<<<< HEAD
 html {
   scroll-behavior: smooth;
 }
@@ -39,3 +40,5 @@ body {
 a {
   text-decoration: none;
 }
+=======
+>>>>>>> origin/main
